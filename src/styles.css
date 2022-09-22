@@ -1,0 +1,45 @@
+/* You can add global styles to this file, and also import other style files */
+span {
+    color:#c471ed
+  }
+  ul{
+   color:#c471ed
+  }
+  .navbar-brand{
+  color:#c471ed
+  }
+  h1 {
+    color:#c471ed
+  }
+  #info-company{
+    color:#c471ed
+  }
+  button{
+    color:#c471ed
+  }
+  video {
+    left: 50%;
+    min-height: 100%;
+    min-width: 100%;
+    opacity: .3;
+    position: relative;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 32px 32px 0 0;
+  }
+  .overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    }
+  
+  .mat-card{
+    border-radius: 32px;
+    margin: 10px 10px;
+    padding: 20px;
+    border-color: #c471ed;
+  }
+  
+    
+   
